@@ -5,14 +5,14 @@ const reviews = [
     name: 'Devesh Kr Pathak',
     job: 'Software Developer',
     img: '1704554361386.jpeg',
-    text: "Exceptional attention to detail and craftsmanship! The development project exceeded my expectations in every aspect. From the initial concept to the final execution, every step was meticulously planned and flawlessly executed. I'm thoroughly impressed and highly recommend this project to anyone seeking top-notch quality.",
+    text: "Abhishek is  good student having a learning attitude and creative mind",
   },
   {
     id: "fth2",
     name: 'Akash Dubey',
     job: 'Full Stack Developer',
     img: '1695983471597.jpeg',
-    text: "Innovative and forward-thinking! This development project showcases a perfect blend of modern design and functionality. The team behind it demonstrated remarkable creativity and ingenuity, resulting in a space that not only meets but exceeds the needs of its users. Kudos to everyone involved for their outstanding work!",
+    text: "It is rare to come across standout talent like Abhishek. As my junior, I have had the pleasure of working with him in Software Development Classes (SDC). He is highly devoted to his work and has a strong passion for solving DSA (Data Structures and Algorithms) problems. Abhishek is always open to taking advice from his seniors. What particularly impresses me is his unwavering focus and dedication. From his first year, he has remained committed to his ambitions and goals, continually advancing his DSA journey and upskilling himself.",
   },
   {
     id: "fth3",
